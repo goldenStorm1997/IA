@@ -6,6 +6,8 @@ TagManager:
   tags:
   - storage
   - minerio
+  - npc
+  - inimigo
   layers:
   - Default
   - TransparentFX
